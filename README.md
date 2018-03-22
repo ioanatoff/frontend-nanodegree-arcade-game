@@ -1,6 +1,22 @@
-frontend-nanodegree-arcade-game
-===============================
+# Arcade Game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Table of Contents
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* [Instructions](#instructions)
+* [Dependencies](#dependencies)
+
+## Instructions
+
+Open index.html to run the game.
+
+**This is a Frogger style game.**
+
+To play the game you need to **use the arrow keys** to move your player.
+Collect gems if you can and try to avoid the bugs.
+Reach one of the three rocks to win the game.
+
+**Have FUN!**
+
+## Dependencies
+
+This game has no dependencies it is vanilla javascript.
